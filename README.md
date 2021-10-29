@@ -1,5 +1,6 @@
 <!-- GETTING STARTED -->
-## My_mastermind (Terminal Game)
+## My_printf
+
 ### Task Description
 
 The my_printf() function produce output according to a format as described below. The my_printf() functions write output to stdout, the standard output stream;
